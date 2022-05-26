@@ -1,6 +1,6 @@
 # React App and Formik Form
 
-This project was bootstrapped with [React App](https://github.com/facebook/create-react-app) and [Formik](https://formik.org).
+This project was bootstrapped with [React](https://github.com/facebook/create-react-app) and [Formik](https://formik.org).
 
 ## Description
 
@@ -14,10 +14,11 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+This will run the app in the development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 
 ## Roadmap of Future Improvements
 
@@ -31,7 +32,7 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
 
-Both [React App](https://github.com/facebook/create-react-app) and [Formik](https://formik.org) were used in this app.
+Both [React](https://github.com/facebook/create-react-app) and [Formik](https://formik.org) were used in this app.
 
 ### MIT License
 
